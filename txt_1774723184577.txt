@@ -1,0 +1,34 @@
+Plains Village
+Taiga Village
+Snowy Village
+Savanna Village
+Desert Village
+Pillager Outpost
+Woodland Mansion
+Swamp Hut
+Jungle Pyramid
+Desert Pyramid
+Igloo
+Mineshaft
+Badlands Mineshaft
+Trail Ruins
+Trial Chambers
+Stronghold
+Ancient City
+Buried Treasure
+Shipwreck
+Beached Shipwreck
+Cold Ocean Ruins
+Warm Ocean Ruins
+Ocean Monument
+Ruined Portal
+Desert Ruined Portal
+Jungle Ruined Portal
+Swamp Ruined Portal
+Mountain Ruined Portal
+Ocean Ruined Portal
+Nether Ruined Portal
+Nether Fortress
+Bastion Remnant
+Nether Fossil
+End City
