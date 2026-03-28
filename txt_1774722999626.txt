@@ -1,0 +1,40 @@
+Instant Health
+Instant Damage
+Regeneration
+Poison
+Health Boost
+Absorption
+Wither
+Saturation
+Hunger
+Strength
+Weakness
+Haste
+Mining Fatigue
+Speed
+Slowness
+Jump Boost
+Levitation
+Slow Falling
+Luck
+Bad Luck
+Glowing
+Invisibility
+Night Vision
+Blindness
+Darkness
+Nausea
+Conduit Power
+Dolphin's Grace
+Breath of the Nautilus
+Water Breathing
+Fire Resistance
+Resistance
+Hero of the Village
+Bad Omen
+Raid Omen
+Trial Omen
+Infested
+Oozing
+Weaving
+Wind Charged
