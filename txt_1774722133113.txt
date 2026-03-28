@@ -1,9 +1,7 @@
-Air
 Cobblestone
 Cobblestone Slab
 Cobblestone Stairs
 Cobblestone Wall
-Infested Cobblestone
 Mossy Cobblestone
 Mossy Cobblestone Slab
 Mossy Cobblestone Stairs
@@ -11,23 +9,18 @@ Mossy Cobblestone Wall
 Stone
 Stone Slab
 Stone Stairs
-Infested Stone
 Smooth Stone
 Smooth Stone Slab
 Stone Bricks
 Stone Brick Slab
 Stone Brick Stairs
 Stone Brick Wall
-Infested Stone Bricks
 Cracked Stone Bricks
-Infested Cracked Stone Bricks
 Chiseled Stone Bricks
-Infested Chiseled Stone Bricks
 Mossy Stone Bricks
 Mossy Stone Brick Slab
 Mossy Stone Brick Stairs
 Mossy Stone Brick Wall
-Infested Mossy Stone Bricks
 Stone Pressure Plate
 Stone Button
 Deepslate
@@ -35,7 +28,6 @@ Cobbled Deepslate
 Cobbled Deepslate Slab
 Cobbled Deepslate Stairs
 Cobbled Deepslate Wall
-Infested Deepslate
 Polished Deepslate
 Polished Deepslate Slab
 Polished Deepslate Stairs
@@ -922,58 +914,7 @@ Heavy Core
 Armor Stand
 Flower Pot
 Decorated Pot
-Painting (Random variant)
-Painting (Albanian)
-Painting (de_aztec)
-Painting (de_aztec)
-Painting (Kebab med tre pepperoni)
-Painting (Meditative)
-Painting (Paradisträd)
-Painting (Target Successfully Bombed)
-Painting (Wasteland)
-Painting (Graham)
-Painting (Prairie Ride)
-Painting (Wanderer)
-Painting (Bonjour Monsieur Courbet)
-Painting (Creebet)
-Painting (Seaside)
-Painting (sunset_dense)
-Painting (The Pool)
-Painting (Baroque)
-Painting (Bust)
-Painting (Earth)
-Painting (Fire)
-Painting (Humble)
-Painting (Match)
-Painting (Skull and Roses)
-Painting (The Stage Is Set)
-Painting (The void)
-Painting (Water)
-Painting (Wind)
-Painting (Wither)
-Painting (Bouquet)
-Painting (Cavebird)
-Painting (Cotán)
-Painting (Dennis)
-Painting (Endboss)
-Painting (Fern)
-Painting (Owlemons)
-Painting (Sunflowers)
-Painting (Tides)
-Painting (Backyard)
-Painting (Pond)
-Painting (Changing)
-Painting (Fighters)
-Painting (Finding)
-Painting (Lowmist)
-Painting (Passage)
-Painting (Kong)
-Painting (Mortal Coil)
-Painting (Orb)
-Painting (Pigscene)
-Painting (Pointer)
-Painting (Skull On Fire)
-Painting (Unpacked)
+Any Painting
 Item Frame
 Glow Item Frame
 Ladder
@@ -1020,11 +961,9 @@ Minecart with Chest
 Minecart with Hopper
 Minecart with Furnace
 Minecart with TNT
-Minecart with Command Block
 Sculk Vein
 Sculk
 Sculk Sensor
-Calibrated Sculk Sensor
 Sculk Catalyst
 Sculk Shrieker
 Red Mushroom
@@ -1191,16 +1130,6 @@ Mushroom Stew
 Rabbit Stew
 Beetroot Soup
 Suspicious Stew
-Suspicious Stew (Blindness)
-Suspicious Stew (Fire Resistance)
-Suspicious Stew (Jump Boost)
-Suspicious Stew (Night Vision)
-Suspicious Stew (Nausea)
-Suspicious Stew (Poison)
-Suspicious Stew (Regeneration)
-Suspicious Stew (Saturation)
-Suspicious Stew (Weakness)
-Suspicious Stew (Wither)
 Leather
 Rabbit Hide
 Rabbit's Foot
@@ -1227,53 +1156,6 @@ Ochre Froglight
 String
 Rotten Flesh
 Arrow
-Uncraftable Tipped Arrow
-Arrow of Splashing
-Tipped Arrow (Awkward)
-Tipped Arrow (Mundane)
-Tipped Arrow (Thick)
-Arrow of Healing
-Arrow of Healing (Strong)
-Arrow of Regeneration
-Arrow of Regeneration (Long)
-Arrow of Regeneration (Strong)
-Arrow of Strength
-Arrow of Strength (Long)
-Arrow of Strength (Strong)
-Arrow of Swiftness
-Arrow of Swiftness (Long)
-Arrow of Swiftness (Strong)
-Arrow of Leaping
-Arrow of Leaping (Long)
-Arrow of Leaping (Strong)
-Arrow of Luck
-Arrow of Night Vision
-Arrow of Night Vision (Long)
-Arrow of Invisibility
-Arrow of Invisibility (Long)
-Arrow of Water Breathing
-Arrow of Water Breathing (Long)
-Arrow of Fire Resistance
-Arrow of Fire Resistance (Long)
-Arrow of Slow Falling
-Arrow of Slow Falling (Long)
-Arrow of the Turtle Master
-Arrow of the Turtle Master (Long)
-Arrow of the Turtle Master (Strong)
-Arrow of Harming
-Arrow of Harming (Strong)
-Arrow of Poison
-Arrow of Poison (Long)
-Arrow of Poison (Strong)
-Arrow of Weakness
-Arrow of Weakness (Long)
-Arrow of Slowness
-Arrow of Slowness (Long)
-Arrow of Slowness (Strong)
-Arrow of Infestation
-Arrow of Oozing
-Arrow of Weaving
-Arrow of Wind Charging
 Spectral Arrow
 Bone
 Bone Meal
@@ -1302,36 +1184,7 @@ Piglin Head
 Dragon Head
 Dragon Egg
 Goat Horn
-Goat Horn (Ponder)
-Goat Horn (Sing)
-Goat Horn (Seek)
-Goat Horn (Feel)
-Goat Horn (Admire)
-Goat Horn (Call)
-Goat Horn (Yearn)
-Goat Horn (Dream)
-Music Disc (C418 - 13)
-Music Disc (C418 - cat)
-Music Disc (C418 - blocks)
-Music Disc (C418 - chirp)
-Music Disc (C418 - far)
-Music Disc (C418 - mall)
-Music Disc (C418 - mellohi)
-Music Disc (C418 - stal)
-Music Disc (C418 - strad)
-Music Disc (C418 - ward)
-Music Disc (C418 - 11)
-Music Disc (C418 - wait)
-Music Disc (Lena Raine - Pigstep)
-Music Disc (Lena Raine - otherside)
-Music Disc (Samuel Åberg - 5)
-Music Disc (Aaron Cherof - Relic)
-Music Disc (Aaron Cherof - Precipice)
-Music Disc (Lena Raine - Creator)
-Music Disc (Lena Raine - Creator (Music Box))
-Music Disc (Amos Roddy - Tears)
-Music Disc (Hyper Potions - Lava Chicken)
-Disc Fragment
+Any Music Disc
 Echo Shard
 Stick
 Charcoal
@@ -1340,131 +1193,46 @@ Paper
 Book
 Enchanted Book
 Enchanted Book (Mending)
-Enchanted Book (Unbreaking I)
-Enchanted Book (Unbreaking II)
-Enchanted Book (Unbreaking III)
-Enchanted Book (Protection I)
-Enchanted Book (Protection II)
-Enchanted Book (Protection III
-Enchanted Book (Protection IV)
-Enchanted Book (Blast Protection I)
-Enchanted Book (Blast Protection II)
-Enchanted Book (Blast Protection III)
-Enchanted Book (Blast Protection IV)
-Enchanted Book (Fire Protection I)
-Enchanted Book (Fire Protection II)
-Enchanted Book (Fire Protection III)
-Enchanted Book (Fire Protection IV)
-Enchanted Book (Projectile Protection I)
-Enchanted Book (Projectile Protection II)
-Enchanted Book (Projectile Protection III)
-Enchanted Book (Projectile Protection IV)
-Enchanted Book (Thorns I)
-Enchanted Book (Thorns II)
-Enchanted Book (Thorns III)
-Enchanted Book (Respiration I)
-Enchanted Book (Respiration II)
-Enchanted Book (Respiration III)
+Enchanted Book (Unbreaking)
+Enchanted Book (Protection)
+Enchanted Book (Blast Protection)
+Enchanted Book (Fire Protection)
+Enchanted Book (Projectile Protection)
+Enchanted Book (Thorns)
+Enchanted Book (Respiration)
 Enchanted Book (Aqua Affinity)
-Enchanted Book (Swift Sneak I)
-Enchanted Book (Swift Sneak II)
-Enchanted Book (Swift Sneak III)
-Enchanted Book (Feather Falling I)
-Enchanted Book (Feather Falling II)
-Enchanted Book (Feather Falling III)
-Enchanted Book (Feather Falling IV)
-Enchanted Book (Soul Speed I)
-Enchanted Book (Soul Speed II)
-Enchanted Book (Soul Speed III)
-Enchanted Book (Depth Strider I)
-Enchanted Book (Depth Strider II)
-Enchanted Book (Depth Strider III)
-Enchanted Book (Frost Walker I)
-Enchanted Book (Frost Walker II)
-Enchanted Book (Sharpness I)
-Enchanted Book (Sharpness II)
-Enchanted Book (Sharpness III)
-Enchanted Book (Sharpness IV)
-Enchanted Book (Sharpness V)
-Enchanted Book (Smite I)
-Enchanted Book (Smite II)
-Enchanted Book (Smite III)
-Enchanted Book (Smite IV)
-Enchanted Book (Smite V)
-Enchanted Book (Bane of Arthropods I)
-Enchanted Book (Bane of Arthropods II)
-Enchanted Book (Bane of Arthropods III)
-Enchanted Book (Bane of Arthropods IV)
-Enchanted Book (Bane of Arthropods V)
-Enchanted Book (Looting I)
-Enchanted Book (Looting II)
-Enchanted Book (Looting III)
-Enchanted Book (Sweeping Edge I)
-Enchanted Book (Sweeping Edge II)
-Enchanted Book (Sweeping Edge III)
-Enchanted Book (Fire Aspect I)
-Enchanted Book (Fire Aspect II)
-Enchanted Book (Knockback I)
-Enchanted Book (Knockback II)
-Enchanted Book (Lunge I)
-Enchanted Book (Lunge II)
-Enchanted Book (Lunge III)
-Enchanted Book (Efficiency I)
-Enchanted Book (Efficiency II)
-Enchanted Book (Efficiency III)
-Enchanted Book (Efficiency IV)
-Enchanted Book (Efficiency V)
-Enchanted Book (Fortune I)
-Enchanted Book (Fortune II)
-Enchanted Book (Fortune III)
+Enchanted Book (Swift Sneak)
+Enchanted Book (Feather Falling)
+Enchanted Book (Soul Speed)
+Enchanted Book (Depth Strider)
+Enchanted Book (Frost Walker)
+Enchanted Book (Sharpness)
+Enchanted Book (Smite)
+Enchanted Book (Bane of Arthropods)
+Enchanted Book (Looting)
+Enchanted Book (Sweeping Edge)
+Enchanted Book (Fire Aspect)
+Enchanted Book (Knockback)
+Enchanted Book (Lunge)
+Enchanted Book (Efficiency)
+Enchanted Book (Fortune)
 Enchanted Book (Silk Touch)
-Enchanted Book (Power I)
-Enchanted Book (Power II)
-Enchanted Book (Power III)
-Enchanted Book (Power IV)
-Enchanted Book (Power V)
-Enchanted Book (Punch I)
-Enchanted Book (Punch II)
+Enchanted Book (Power)
+Enchanted Book (Punch)
 Enchanted Book (Flame)
 Enchanted Book (Infinity)
-Enchanted Book (Piercing I)
-Enchanted Book (Piercing II)
-Enchanted Book (Piercing III)
-Enchanted Book (Piercing IV)
-Enchanted Book (Quick Charge I)
-Enchanted Book (Quick Charge II)
-Enchanted Book (Quick Charge III)
+Enchanted Book (Piercing)
+Enchanted Book (Quick Charge)
 Enchanted Book (Multishot)
-Enchanted Book (Impaling I)
-Enchanted Book (Impaling II)
-Enchanted Book (Impaling III)
-Enchanted Book (Impaling IV)
-Enchanted Book (Impaling V)
-Enchanted Book (Riptide I)
-Enchanted Book (Riptide II)
-Enchanted Book (Riptide III)
-Enchanted Book (Loyalty I)
-Enchanted Book (Loyalty II)
-Enchanted Book (Loyalty III)
+Enchanted Book (Impaling)
+Enchanted Book (Riptide)
+Enchanted Book (Loyalty)
 Enchanted Book (Channeling)
-Enchanted Book (Density I)
-Enchanted Book (Density II)
-Enchanted Book (Density III)
-Enchanted Book (Density IV)
-Enchanted Book (Density V)
-Enchanted Book (Breach I)
-Enchanted Book (Breach II)
-Enchanted Book (Breach III)
-Enchanted Book (Breach IV)
-Enchanted Book (Wind Burst I)
-Enchanted Book (Wind Burst II)
-Enchanted Book (Wind Burst III)
-Enchanted Book (Luck of the Sea I)
-Enchanted Book (Luck of the Sea II)
-Enchanted Book (Luck of the Sea III)
-Enchanted Book (Lure I)
-Enchanted Book (Lure II)
-Enchanted Book (Lure III)
+Enchanted Book (Density)
+Enchanted Book (Breach)
+Enchanted Book (Wind Burst)
+Enchanted Book (Luck of the Sea)
+Enchanted Book (Lure)
 Enchanted Book (Curse of Binding)
 Enchanted Book (Curse of Vanishing)
 Bookshelf
@@ -1473,213 +1241,16 @@ Book and Quill
 Written Book
 Knowledge Book
 Empty Map
-Map
-Thing Banner Pattern
-Skull Charge Banner Pattern
-Creeper Charge Banner Pattern
-Flower Charge Banner Pattern
-Globe Banner Pattern
-Bordure Indented Banner Pattern
-Field Masoned Banner Pattern
-Snout Banner Pattern
-Flow Banner Pattern
-Guster Banner Pattern
-Angler Pottery Sherd
-Archer Pottery Sherd
-Arms Up Pottery Sherd
-Blade Pottery Sherd
-Brewer Pottery Sherd
-Burn Pottery Sherd
-Danger Pottery Sherd
-Explorer Pottery Sherd
-Friend Pottery Sherd
-Flow Pottery Sherd
-Guster Pottery Sherd
-Heart Pottery Sherd
-Heartbreak Pottery Sherd
-Howl Pottery Sherd
-Miner Pottery Sherd
-Mourner Pottery Sherd
-Plenty Pottery Sherd
-Prize Pottery Sherd
-Scrape Pottery Sherd
-Sheaf Pottery Sherd
-Shelter Pottery Sherd
-Skull Pottery Sherd
-Snort Pottery Sherd
+Any Banner Pattern
+Any Pottery Sherd
 Netherite Upgrade
-Bolt Armor Trim
-Coast Armor Trim
-Dune Armor Trim
-Eye Armor Trim
-Flow Armor Trim
-Host Armor Trim
-Raiser Armor Trim
-Rib Armor Trim
-Sentry Armor Trim
-Shaper Armor Trim
-Silence Armor Trim
-Snout Armor Trim
-Spire Armor Trim
-Tide Armor Trim
-Vex Armor Trim
-Ward Armor Trim
-Wayfinder Armor Trim
-Wild Armor Trim
 Firework Star
 Firework Rocket
-Firework Rocket (Flight Duration: 1)
-Firework Rocket (Flight Duration: 2)
-Firework Rocket (Flight Duration: 3)
 Glass Bottle
 Bottle o' Enchanting
 Ominous Bottle (Bad Omen)
-Ominous Bottle (Bad Omen II)
-Ominous Bottle (Bad Omen III)
-Ominous Bottle (Bad Omen IV)
-Ominous Bottle (Bad Omen V)
 Dragon's Breath
 Water Bottle
-Uncraftable Potion
-Awkward Potion
-Mundane Potion
-Thick Potion
-Potion of Healing
-Potion of Healing (Strong)
-Potion of Regeneration
-Potion of Regeneration (Long)
-Potion of Regeneration (Strong)
-Potion of Strength
-Potion of Strength (Long)
-Potion of Strength (Strong)
-Potion of Swiftness
-Potion of Swiftness (Long)
-Potion of Swiftness (Strong)
-Potion of Leaping
-Potion of Leaping (Long)
-Potion of Leaping (Strong)
-Potion of Luck
-Potion of Night Vision
-Potion of Night Vision (Long)
-Potion of Invisibility
-Potion of Invisibility (Long)
-Potion of Water Breathing
-Potion of Water Breathing (Long)
-Potion of Fire Resistance
-Potion of Fire Resistance (Long)
-Potion of Slow Falling
-Potion of Slow Falling (Long)
-Potion of the Turtle Master
-Potion of the Turtle Master (Long)
-Potion of the Turtle Master (Strong)
-Potion of Harming
-Potion of Harming (Strong)
-Potion of Poison
-Potion of Poison (Long)
-Potion of Poison (Strong)
-Potion of Weakness
-Potion of Weakness (Long)
-Potion of Slowness
-Potion of Slowness (Long)
-Potion of Slowness (Strong)
-Potion of Infestation
-Potion of Oozing
-Potion of Weaving
-Potion of Wind Charging
-Splash Water Bottle
-Splash Uncraftable Potion
-Awkward Splash Potion
-Mundane Splash Potion
-Thick Splash Potion
-Splash Potion of Healing
-Splash Potion of Healing (Strong)
-Splash Potion of Regeneration
-Splash Potion of Regeneration (Long)
-Splash Potion of Regeneration (Strong)
-Splash Potion of Strength
-Splash Potion of Strength (Long)
-Splash Potion of Strength (Strong)
-Splash Potion of Swiftness
-Splash Potion of Swiftness (Long)
-Splash Potion of Swiftness (Strong)
-Splash Potion of Leaping
-Splash Potion of Leaping (Long)
-Splash Potion of Leaping (Strong)
-Splash Potion of Luck
-Splash Potion of Night Vision
-Splash Potion of Night Vision (Long)
-Splash Potion of Invisibility
-Splash Potion of Invisibility (Long)
-Splash Potion of Water Breathing
-Splash Potion of Water Breathing (Long)
-Splash Potion of Fire Resistance
-Splash Potion of Fire Resistance (Long)
-Splash Potion of Slow Falling
-Splash Potion of Slow Falling (Long)
-Splash Potion of the Turtle Master
-Splash Potion of the Turtle Master (Long)
-Splash Potion of the Turtle Master (Strong)
-Splash Potion of Harming
-Splash Potion of Harming (Strong)
-Splash Potion of Poison
-Splash Potion of Poison (Long)
-Splash Potion of Poison (Strong)
-Splash Potion of Weakness
-Splash Potion of Weakness (Long)
-Splash Potion of Slowness
-Splash Potion of Slowness (Long)
-Splash Potion of Slowness (Strong)
-Splash Potion of Infestation
-Splash Potion of Oozing
-Splash Potion of Weaving
-Splash Potion of Wind Charging
-Lingering Water Bottle
-Lingering Uncraftable Potion
-Awkward Lingering Potion
-Mundane Lingering Potion
-Thick Lingering Potion
-Lingering Potion of Healing
-Lingering Potion of Healing (Strong)
-Lingering Potion of Regeneration
-Lingering Potion of Regeneration (Long)
-Lingering Potion of Regeneration (Strong)
-Lingering Potion of Strength
-Lingering Potion of Strength (Long)
-Lingering Potion of Strength (Strong)
-Lingering Potion of Swiftness
-Lingering Potion of Swiftness (Long)
-Lingering Potion of Swiftness (Strong)
-Lingering Potion of Leaping
-Lingering Potion of Leaping (Long)
-Lingering Potion of Leaping (Strong)
-Lingering Potion of Luck
-Lingering Potion of Night Vision
-Lingering Potion of Night Vision (Long)
-Lingering Potion of Invisibility 
-Lingering Potion of Invisibility (Long)
-Lingering Potion of Water Breathing
-Lingering Potion of Water Breathing (Long)
-Lingering Potion of Fire Resistance
-Lingering Potion of Fire Resistance (Long)
-Lingering Potion of Slow Falling
-Lingering Potion of Slow Falling (Long)
-Lingering Potion of the Turtle Master
-Lingering Potion of the Turtle Master (Long)
-Lingering Potion of the Turtle Master (Strong)
-Lingering Potion of Harming
-Lingering Potion of Harming (Strong)
-Lingering Potion of Poison
-Lingering Potion of Poison (Long)
-Lingering Potion of Poison (Strong)
-Lingering Potion of Weakness
-Lingering Potion of Weakness (Long)
-Lingering Potion of Slowness
-Lingering Potion of Slowness (Long)
-Lingering Potion of Slowness (Strong)
-Lingering Potion of Infestation
-Lingering Potion of Oozing
-Lingering Potion of Weaving
-Lingering Potion of Wind Charging
 Saddle
 Leather Horse Armor
 Copper Horse Armor
@@ -1794,119 +1365,3 @@ Iron Boots
 Golden Boots
 Diamond Boots
 Netherite Boots
-Debug Stick
-Command Block
-Chain Command Block
-Repeating Command Block
-Test Instance Block
-Test Block (Start)
-Test Block (Log)
-Test Block (Fail)
-Test Block (Accept)
-Structure Block
-Jigsaw Block
-Structure Void
-Barrier
-Light (0)
-Light (1)
-Light (2)
-Light (3)
-Light (4)
-Light (5)
-Light (6)
-Light (7)
-Light (8)
-Light (9)
-Light (10)
-Light (11)
-Light (12)
-Light (13)
-Light (14)
-Light (15)
-Allay Spawn Egg
-Armadillo Spawn Egg
-Axolotl Spawn Egg
-Bat Spawn Egg
-Bee Spawn Egg
-Blaze Spawn Egg
-Bogged Spawn Egg
-Breeze Spawn Egg
-Camel Spawn Egg
-Camel Husk Spawn Egg
-Cat Spawn Egg
-Cave Spider Spawn Egg
-Chicken Spawn Egg
-Cod Spawn Egg
-Copper Golem Spawn Egg
-Cow Spawn Egg
-Creaking Spawn Egg
-Creeper Spawn Egg
-Dolphin Spawn Egg
-Donkey Spawn Egg
-Drowned Spawn Egg
-Elder Guardian Spawn Egg
-Ender Dragon Spawn Egg
-Enderman Spawn Egg
-Endermite Spawn Egg
-Evoker Spawn Egg
-Fox Spawn Egg
-Frog Spawn Egg
-Ghast Spawn Egg
-Glow Squid Spawn Egg
-Goat Spawn Egg
-Guardian Spawn Egg
-Happy Ghast Spawn Egg
-Hoglin Spawn Egg
-Horse Spawn Egg
-Husk Spawn Egg
-Iron Golem Spawn Egg
-Llama Spawn Egg
-Magma Cube Spawn Egg
-Mooshroom Spawn Egg
-Mule Spawn Egg
-Nautilus Spawn Egg
-Ocelot Spawn Egg
-Panda Spawn Egg
-Parched Spawn Egg
-Parrot Spawn Egg
-Phantom Spawn Egg
-Pig Spawn Egg
-Piglin Spawn Egg
-Piglin Brute Spawn Egg
-Pillager Spawn Egg
-Polar Bear Spawn Egg
-Pufferfish Spawn Egg
-Rabbit Spawn Egg
-Ravager Spawn Egg
-Salmon Spawn Egg
-Sheep Spawn Egg
-Shulker Spawn Egg
-Silverfish Spawn Egg
-Skeleton Spawn Egg
-Skeleton Horse Spawn Egg
-Slime Spawn Egg
-Sniffer Spawn Egg
-Snow Golem Spawn Egg
-Spider Spawn Egg
-Squid Spawn Egg
-Stray Spawn Egg
-Strider Spawn Egg
-Tadpole Spawn Egg
-Trader Llama Spawn Egg
-Tropical Fish Spawn Egg
-Turtle Spawn Egg
-Vex Spawn Egg
-Villager Spawn Egg
-Vindicator Spawn Egg
-Wandering Trader Spawn Egg
-Warden Spawn Egg
-Witch Spawn Egg
-Wither Spawn Egg
-Wither Skeleton Spawn Egg
-Wolf Spawn Egg
-Zoglin Spawn Egg
-Zombie Spawn Egg
-Zombie Horse Spawn Egg
-Zombie Nautilus Spawn Egg
-Zombie Villager Spawn Egg
-Zombified Piglin Spawn Egg
