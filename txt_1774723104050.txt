@@ -1,0 +1,65 @@
+Plains
+Sunflower Plains
+Forest
+Flower Forest
+Windswept Forest
+Birch Forest
+Old Growth Birch Forest
+Dark Forest
+Pale Garden
+Mushroom Fields
+Swamp
+Mangrove Swamp
+Jungle
+Sparse Jungle
+Bamboo Jungle
+Savanna
+Savanna Plateau
+Windswept Savanna
+Badlands
+Wooded Badlands
+Eroded Badlands
+Desert
+Snowy Plains
+Ice Spikes
+Taiga
+Snowy Taiga
+Old Growth Pine Taiga
+Old Growth Spruce Taiga
+Windswept Hills
+Windswept Gravelly Hills
+Meadow
+Cherry Grove
+Grove
+Snowy Slopes
+Stony Peaks
+Jagged Peaks
+Frozen Peaks
+Beach
+Stony Shore
+Snowy Beach
+River
+Frozen River
+Ocean
+Deep Ocean
+Cold Ocean
+Deep Cold Ocean
+Frozen Ocean
+Deep Frozen Ocean
+Lukewarm Ocean
+Deep Lukewarm Ocean
+Warm Ocean
+Dripstone Caves
+Lush Caves
+Deep Dark
+The Void
+Nether Wastes
+Crimson Forest
+Warped Forest
+Soul Sand Valley
+Basalt Deltas
+The End
+End Highlands
+End Midlands
+End Barrens
+Small End Islands
